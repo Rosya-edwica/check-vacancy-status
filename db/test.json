@@ -1,0 +1,116 @@
+{
+    "id": "4095490",
+    "premium": true,
+    "billing_type": {
+        "id": "premium",
+        "name": "Премиум"
+    },
+    "relations": [],
+    "name": "Водитель-международник",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+    },
+    "salary": {
+        "from": 3500,
+        "to": null,
+        "currency": "BYR",
+        "gross": false
+    },
+    "type": {
+        "id": "open",
+        "name": "Открытая"
+    },
+    "address": {
+        "city": "Минск",
+        "street": "Автозаводская линия",
+        "building": "метро Могилевская",
+        "lat": 53.861798,
+        "lng": 27.673986,
+        "description": null,
+        "raw": "Минск, Автозаводская линия, метро Могилевская",
+        "metro": {
+            "station_name": "Могилевская",
+            "line_name": "Автозаводская",
+            "station_id": "63.429",
+            "line_id": "63",
+            "lat": 53.861862,
+            "lng": 27.674381
+        },
+        "metro_stations": [
+            {
+                "station_name": "Могилевская",
+                "line_name": "Автозаводская",
+                "station_id": "63.429",
+                "line_id": "63",
+                "lat": 53.861862,
+                "lng": 27.674381
+            }
+        ]
+    },
+    "allow_messages": true,
+    "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+    },
+    "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+    },
+    "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p><strong><em>Транспортная компания APS - лидер на рынке в области международных перевозок автомобильным транспортом, </em></strong>приглашает <strong>водителей</strong> для работы на международных грузоперевозках.</p> <p> </p> <p>Направления: Европа, СНГ, Азия</p> <p><strong>Основное требование</strong><strong>: наличие категории СЕ. </strong>Приветствуется<strong> </strong>опыт работы на грузовом автомобиле.</p> <p> </p> <p>Новый (ср. возраст 1,5 г.) собственный автопарк (Mercedes, Scania, Volvo).</p> <p><strong>Тенты и рефрижераторы (более 650 ед. техники).</strong></p> <p> </p> <p><strong>Мы гарантируем:</strong></p> <ul> <li>Высокая и своевременная <strong>оплата до 80€ в сутки</strong>;</li> <li><strong>Оплачиваемая</strong> СТАЖИРОВКА;</li> <li><strong>Гарантированная</strong> минимальная оплата в рейсе <strong>50€ в сутки;</strong></li> <li>Шенгенские визы и мед. страховки за счёт предприятия;</li> <li><strong>Оплачиваемые</strong> простои (<strong>до 50€ в сутки</strong>)<strong>;</strong></li> <li><strong>Оплачиваемые</strong> верхние разгрузки;</li> <li>Продление документов за счёт компании (свидетельство водителя-международника, ADR);</li> <li>Официальное трудоустройство.</li> </ul> <p> </p> <p><strong>Наши преимущества:</strong></p> <ul> <li><strong>Сопровождение</strong> водителя в рейсе 24 часа высококвалифицированными специалистами;</li> <li>Обучение международным перевозкам;</li> <li>Таможенный перевозчик (нет конвоев);</li> <li>Своя ремонтная база;</li> <li><strong>Охраняемая стоянка</strong> для ваших личных автомобилей;</li> <li>Корпоративная мобильная связь <strong>за счёт компании</strong>;</li> <li>Фирменная <strong>спецодежда</strong> (жилетки, сумки, кепки);</li> <li><strong>Надбавки за стаж</strong> работы в компании;</li> <li>Закрепление водителя за автомобилем.</li> </ul> <p> </p> <p><strong>Лучшие водители работают в APS!</strong></p> <p> </p> <p> </p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": true,
+    "response_url": null,
+    "specializations": [],
+    "professional_roles": [
+        {
+            "id": "21",
+            "name": "Водитель"
+        }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+        "id": "745391",
+        "name": "APS",
+        "url": "https://api.hh.ru/employers/745391",
+        "alternate_url": "https://hh.ru/employer/745391",
+        "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/3273540.png",
+            "original": "https://hhcdn.ru/employer-logo-original/708106.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=745391",
+        "accredited_it_employer": false,
+        "trusted": true
+    },
+    "published_at": "2022-04-19T11:48:54+0300",
+    "created_at": "2022-04-19T11:48:54+0300",
+    "initial_created_at": "2011-03-15T17:59:58+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=4095490",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/4095490",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": []
+}
